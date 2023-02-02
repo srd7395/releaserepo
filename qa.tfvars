@@ -1,3 +1,3 @@
-rgname = "qarg"
+rgname = "qqqarg"
 loc = "Central US"
-pipname = "qapip"
+pipname = "qqqapip"
